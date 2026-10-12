@@ -1,0 +1,472 @@
+[
+  {
+    "name": "sky_moon",
+    "file": "sky_moon.png",
+    "size": [
+      512,
+      512
+    ],
+    "row": "A chubby cream crescent moon with a small sleepy face, cocoa outline.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A chubby cream crescent moon with a small sleepy face, cocoa outline. 512\u00d7512 frame. Match the style of the attached reference sheet exactly. References: _stylesheet.png style; vessel.png and maria_ghost.png for matching character face simplicity, no scarf on the moon. Only cream #F6E7C8 and cocoa #4A2C2A. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-ef2e65ec-2671-475b-8a3b-c86f130c5947.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "sky_star",
+    "file": "sky_star.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A single four-point cream star, cocoa outline. Very simple bold silhouette readable at 16 px.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A single four-point cream star, cocoa outline. Very simple bold silhouette readable at 16 px. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-dc4af43e-e200-4a16-97a3-f96daf930256.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "sky_cloud_a",
+    "file": "sky_cloud_a.png",
+    "size": [
+      1024,
+      512
+    ],
+    "row": "A soft lumpy cream cloud, cocoa outline, flat.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A soft lumpy cream cloud, cocoa outline, flat. Output frame 1024\u00d7512. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. One empty faceless cream cloud silhouette with five broad lumpy lobes, cocoa outline. Horizontal cloud in sky, no eyes, no mouth, no face, no feet, no arms, no scarf, no people or ghost. ONLY a cloud, transparent background. Match the style of the attached reference sheet exactly, but do not copy its subjects. The stylesheet is ONLY a stroke and palette reference. Output only the requested single shape; no other object. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-8232d0ae-e2de-45eb-add6-3d49f35dc7bf.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "sky_cloud_b",
+    "file": "sky_cloud_b.png",
+    "size": [
+      1024,
+      512
+    ],
+    "row": "A different lumpy cream cloud, longer and thinner.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A different lumpy cream cloud, longer and thinner. Output frame 1024\u00d7512. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. One empty faceless cream cloud silhouette, very long and thin with seven low rolling bumps, cocoa outline. Horizontal cloud in sky, no eyes, no mouth, no face, no feet, no arms, no scarf, no people or ghost. ONLY a cloud, transparent background. Match the style of the attached reference sheet exactly, but do not copy its subjects. The stylesheet is ONLY a stroke and palette reference. Output only the requested single shape; no other object. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-570961a1-5493-47a2-a8a7-3d4baf12e8d5.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "sky_cloud_c",
+    "file": "sky_cloud_c.png",
+    "size": [
+      512,
+      256
+    ],
+    "row": "A small round cream cloud.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A small round cream cloud. Output frame 512\u00d7256. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. One empty faceless cream cloud silhouette, small round cloud with three big broad puffs, cocoa outline. No eyes, no mouth, no face, no feet, no arms, no scarf, no people or ghost. ONLY a cloud, transparent background. Match the style of the attached reference sheet exactly, but do not copy its subjects. The stylesheet is ONLY a stroke and palette reference. Output only the requested single shape; no other object. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-1e235220-a84d-48cc-a07e-3380f24d3305.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_tree",
+    "file": "scene_tree.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "A round moss tree on a short cocoa trunk, a few flat coral fruits.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A round moss tree on a short cocoa trunk, a few flat coral fruits. Output frame 1024\u00d71024. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-dbc72f46-f72c-4b2c-b959-ea79d0729315.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A round MOSS GREEN tree canopy with just three flat CORAL fruits, on a SHORT SOLID COCOA BROWN trunk. NO mustard, NO yellow anywhere, NO teal, NO face. Simple round canopy, sparse grain, no tiny leaves or intricate root marks. Single friendly tree, silhouette clear at 64px. Match the style of the attached reference sheet exactly, but do not copy any of its objects. Output ONLY the single requested asset. No character, face, person, ghost. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_bush_a",
+    "file": "scene_bush_a.png",
+    "size": [
+      512,
+      512
+    ],
+    "row": "A low round moss bush.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A low round moss bush. Output frame 512\u00d7512. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-8d81d53c-48f6-46bc-9952-f009f100e7d6.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_bush_b",
+    "file": "scene_bush_b.png",
+    "size": [
+      512,
+      512
+    ],
+    "row": "A low moss bush with one flat coral flower.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A low moss bush with one flat coral flower. Output frame 512\u00d7512. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-e94f42c5-5969-4cbc-ba84-92cd04e94f0c.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_fence",
+    "file": "scene_fence.png",
+    "size": [
+      2048,
+      256
+    ],
+    "row": "A wobbly cocoa picket fence, tileable left to right. Keep horizontal rails level and same height at both edges; extend rails all the way through left and right frame edges. Wide narrow 8:1 composition.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A wobbly cocoa picket fence, tileable left to right. Keep horizontal rails level and same height at both edges; extend rails all the way through left and right frame edges. Wide narrow 8:1 composition. Output frame 2048\u00d7256. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-fc923328-f63e-4df1-980f-a3bee6f4491d.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A wobbly COCOA BROWN picket fence, SOLID COCOA BROWN rails and pickets, no mustard, NO yellow, no green. Tileable horizontal strip. Horizontal rails at identical heights continue THROUGH both left and right edges of canvas; no blank margins at sides. Rounded tops, simple hand drawn silhouette, not a whole freestanding fence panel. 8:1 wide strip with transparent area above and below, flat front view. Match the style of the attached reference sheet exactly, but do not copy any of its objects. Output ONLY the single requested asset. No character, face, person, ghost. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_hill",
+    "file": "scene_hill.png",
+    "size": [
+      2048,
+      512
+    ],
+    "row": "A smooth mustard hill silhouette, tileable left to right, flat. Same height and horizontal tangent at left and right edges. Mustard solid fill extends to bottom and both side edges. Wide 4:1 composition.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A smooth mustard hill silhouette, tileable left to right, flat. Same height and horizontal tangent at left and right edges. Mustard solid fill extends to bottom and both side edges. Wide 4:1 composition. Output frame 2048\u00d7512. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-179edbfb-5240-4fd3-b92b-fc76a7719641.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. ONE smooth MUSTARD hill silhouette, completely flat #E9B44C fill. No dark outline, NO grass, NO rocks, NO plants, NO surface lines, NO texture dots, no scenery or props. Single broad smooth hump. Full bleed across both left and right canvas edges and down to bottom edge; transparent sky above. Horizontally repeating, same height and perfectly horizontal tangent at both edges. Wide 4:1 frame. Match the style of the attached reference sheet exactly, but do not copy any of its objects. Output ONLY the single requested asset. No character, face, person, ghost. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "scene_lamp",
+    "file": "scene_lamp.png",
+    "size": [
+      512,
+      1024
+    ],
+    "row": "A tall cocoa lamp post with a mustard glowing lamp, no bloom. Flat mustard glass, no gradients, no halo. Tall 1:2 composition.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A tall cocoa lamp post with a mustard glowing lamp, no bloom. Flat mustard glass, no gradients, no halo. Tall 1:2 composition. Output frame 512\u00d71024. Match the style of the attached reference sheet exactly. Exact colors only: #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069; no lilac. No shadow or lettering. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-eccabda3-abcc-45c0-b847-58218a2a58a7.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A tall COCOA BROWN lamp post. Entire metal post, cap and base SOLID DARK COCOA #4A2C2A, ONLY glass panes mustard #E9B44C. NO green, NO moss, NO teal. Friendly crooked outline, simple bold silhouette. Lamp glows only by flat mustard fill, no light spill, no bloom, no gradient. Tall 1:2 frame. Match the style of the attached reference sheet exactly, but do not copy any of its objects. Output ONLY the single requested asset. No character, face, person, ghost. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "you_walk_1",
+    "file": "you_walk_1.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 1 of six, left foot forward and right foot back, scarf tip swung right. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 1 of six, left foot forward and right foot back, scarf tip swung right. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-07f8f021-ef09-43c1-8641-d5aa7d665800.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "you_walk_2",
+    "file": "you_walk_2.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 2 of six, left foot planted, right foot starting to swing forward, scarf tip right. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 2 of six, left foot planted, right foot starting to swing forward, scarf tip right. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-ec830841-fd80-47c0-bfee-a2355a8a05d5.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "you_walk_3",
+    "file": "you_walk_3.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 3 of six, feet passing underneath body, right foot lifting, scarf tip near center. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 3 of six, feet passing underneath body, right foot lifting, scarf tip near center. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-bc206517-dc77-479a-9c61-b9823f2c147a.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "you_walk_4",
+    "file": "you_walk_4.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 4 of six, right foot forward and left foot back, scarf tip swung left. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 4 of six, right foot forward and left foot back, scarf tip swung left. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-4c524b73-c2b2-44f7-8d0e-1886c7a8765d.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "you_walk_5",
+    "file": "you_walk_5.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 5 of six, right foot planted, left foot starting to swing forward, scarf tip left. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 5 of six, right foot planted, left foot starting to swing forward, scarf tip left. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-29a323a7-e0af-4bea-8db9-f30df204b2dc.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "you_walk_6",
+    "file": "you_walk_6.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The cream fellow walking in place: walk cycle frame 6 of six, feet passing underneath body, left foot lifting, scarf tip near center. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The cream fellow walking in place: walk cycle frame 6 of six, feet passing underneath body, left foot lifting, scarf tip near center. Exact identity of vessel.png, two dot eyes, no mouth, tiny arms, cream body and coral scarf. Preserve original head/body exactly in position, proportions and size; move only feet, arms and scarf tip subtly. Camera and 3/4 view locked to vessel.png. Body top at y=153, feet ground at y=869, overall visual bounds approximately x=183..840 on 1024\u00d71024; no recentering, no zoom, no bounce. Feet and scarf alone change pose. Do not include Maria. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-78e718f6-cb7e-49f7-96fe-04487b273cfa.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "maria_wave",
+    "file": "maria_wave.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The ghost waving one stubby arm, grinning. Preserve exact identity, lilac blob, one cream tooth and cocoa outline of maria_ghost.png.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The ghost waving one stubby arm, grinning. Preserve exact identity, lilac blob, one cream tooth and cocoa outline of maria_ghost.png. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-69c90fed-d6db-4847-82f2-c3a30361994b.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "maria_sleep",
+    "file": "maria_sleep.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The ghost with closed eyes and a small cream Z shape above it. Preserve exact lilac ghost identity of maria_ghost.png. Interpret the Z as three connected abstract angular sleep strokes, a pictogram, no readable text or letter.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The ghost with closed eyes and a small cream Z shape above it. Preserve exact lilac ghost identity of maria_ghost.png. Interpret the Z as three connected abstract angular sleep strokes, a pictogram, no readable text or letter. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-1d38061c-ce39-4aad-9c36-9adfd5440cba.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "maria_shock",
+    "file": "maria_shock.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The ghost with wide round eyes and an open mouth, arms up. Preserve exact lilac ghost identity of maria_ghost.png. One cream tooth.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The ghost with wide round eyes and an open mouth, arms up. Preserve exact lilac ghost identity of maria_ghost.png. One cream tooth. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-f5452b91-8d48-416d-952e-b79a6a5640d1.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. Maria SHOCKED expression sprite. Match the style of the attached reference sheet exactly. Reference _stylesheet.png for style, vessel.png for shared game scale and maria_ghost.png for Maria identity. Use same wobbly lilac blob silhouette, thick cocoa outline, two stubby arms raised high in surprise. CRITICAL: change the happy grin into a BIG ROUND OPEN O MOUTH, cocoa fill, tiny cream tooth at upper edge. NO SMILE, no grinning, no upturned smile mouth. EYES WIDE OPEN: large cream circles with small cocoa round pupils, clearly surprised. No extra objects or punctuation. Keep the same flat lilac body and simple texture. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "maria_smug",
+    "file": "maria_smug.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "row": "The ghost with half-closed eyes and a lopsided one-toothed grin, arms crossed. Preserve exact lilac ghost identity of maria_ghost.png.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. The ghost with half-closed eyes and a lopsided one-toothed grin, arms crossed. Preserve exact lilac ghost identity of maria_ghost.png. Reference _stylesheet.png, vessel.png, and maria_ghost.png: match the style of the attached reference sheet exactly; second reference is the Vessel identity and exact walk framing, third is Maria identity. Exact palette #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3; lilac only for Maria. Single character only, no additional objects, no cast shadow. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-9fcd9a08-a817-406a-9d59-f3b58041042d.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png",
+      "assets/vessel.png",
+      "assets/maria_ghost.png"
+    ]
+  },
+  {
+    "name": "confetti_a",
+    "file": "confetti_a.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A flat coral rectangle, slightly rotated.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A flat coral rectangle, slightly rotated. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A single tiny flat CORAL rectangular paper scrap, rotated by 15 degrees. Direct overhead, one flat coral silhouette only, no thickness, no side faces, no bevels, no brick, no stone, no 3D, no shading or shadows, no characters or face. Match the style of the attached reference sheet exactly, but do not copy any subject. The stylesheet is ONLY a palette reference. Output only the requested single flat scrap of confetti. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-376dac69-7023-4393-8791-a89e46c053ea.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "confetti_b",
+    "file": "confetti_b.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A flat mustard circle.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A flat mustard circle. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. One simple FLAT mustard yellow circular dot, a piece of paper confetti. Directly overhead flat silhouette, single flat fill, no depth, no side face, no rim, no coin, no bevel, no inner ring, no 3D, no outline, no shadows, no motifs. Match the style of the attached reference sheet exactly, but do not copy its subjects. The stylesheet is ONLY a stroke and palette reference. Output only the requested single shape; no other object. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-218de388-5a3e-46ef-bc66-789167425f7d.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "confetti_c",
+    "file": "confetti_c.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A flat teal triangle.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A flat teal triangle. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. One simple FLAT teal triangle, a piece of paper confetti. Directly overhead flat silhouette, single flat fill, no depth, no side face, no wedge, no bevel, no 3D, no shadows, no motifs. Match the style of the attached reference sheet exactly, but do not copy its subjects. The stylesheet is ONLY a stroke and palette reference. Output only the requested single shape; no other object. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-25008fd2-f32a-4c61-8a8c-2a83307d05f6.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "confetti_d",
+    "file": "confetti_d.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A flat lilac squiggle. Lilac permitted here by the explicit decor row.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A flat lilac squiggle. Lilac permitted here by the explicit decor row. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "correction": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A single tiny flat LILAC squiggle of paper confetti, an open loose S-shaped strip of ribbon with two blunt cut ends. No eyes, no face, no mouth, no ghost, no character, no limbs, no person. One flat lilac silhouette only, no 3D, no shading, no shadows. Match the style of the attached reference sheet exactly, but do not copy any subject. The stylesheet is ONLY a palette reference. Output only the requested single flat scrap of confetti. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-36c86c46-957a-44c1-ac78-6d44633244ea.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "cursor_spade",
+    "file": "cursor_spade.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A small chubby cocoa spade with a mustard outline, pointing up-left, for a custom cursor. Bold simple silhouette fully readable at 32 pixels, prominent upper-left tip.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A small chubby cocoa spade with a mustard outline, pointing up-left, for a custom cursor. Bold simple silhouette fully readable at 32 pixels, prominent upper-left tip. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-9b24c91f-8c7d-40e7-8818-57ca29c74480.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "cursor_hand",
+    "file": "cursor_hand.png",
+    "size": [
+      128,
+      128
+    ],
+    "row": "A small cream pointing hand with a cocoa outline, for hover. Bold simple silhouette fully readable at 32 pixels. No sleeve, point upper-left.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A small cream pointing hand with a cocoa outline, for hover. Bold simple silhouette fully readable at 32 pixels. No sleeve, point upper-left. Output frame 128\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-3ba2440d-9d01-478b-b93b-8b8327ac5725.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "ornament_header",
+    "file": "ornament_header.png",
+    "size": [
+      1024,
+      128
+    ],
+    "row": "A short horizontal flourish: two curls of cocoa line with a tiny spade at the center. Wide 8:1 composition, even stroke weight.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A short horizontal flourish: two curls of cocoa line with a tiny spade at the center. Wide 8:1 composition, even stroke weight. Output frame 1024\u00d7128. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-32b5eb5b-6188-4256-b707-b5b1de992cc3.png",
+    "correction2": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A short horizontal flourish in COCOA BROWN ONLY: two curls of thick wobbly cocoa line with a tiny solid cocoa spade at center. NO mustard or yellow or other color, cocoa only. Wide 8:1 frame, single short decorative divider, no text. Match the style of the attached reference sheet exactly, but do not copy any of its objects. Output ONLY the single requested asset. No character, face, person, ghost. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "sticker_new",
+    "file": "sticker_new.png",
+    "size": [
+      256,
+      256
+    ],
+    "row": "A coral starburst sticker shape with a cocoa outline, no text.",
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border. A coral starburst sticker shape with a cocoa outline, no text. Output frame 256\u00d7256. Match the style of the attached reference sheet exactly. Exact colors #F6E7C8 #4A2C2A #2A9D8F #E9B44C #F07167 #7FB069 #B8A1E3 only. Minimal grain, no extra motifs, no cast shadows. Single object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow.",
+    "source": "/Users/chase/.codex/generated_images/01a12c4d-561e-7c41-ae34-d667076f028a/exec-023b5051-4c16-4574-8264-803b791d1a57.png",
+    "tool": "built-in imagegen",
+    "references": [
+      "assets/_stylesheet.png"
+    ]
+  }
+]

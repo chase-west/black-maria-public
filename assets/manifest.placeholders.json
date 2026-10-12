@@ -1,0 +1,1814 @@
+{
+  "tile_floor_corridor": {
+    "file": "placeholders/tile_floor_corridor.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_library": {
+    "file": "placeholders/tile_floor_library.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_study": {
+    "file": "placeholders/tile_floor_study.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_chapel": {
+    "file": "placeholders/tile_floor_chapel.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_cellar": {
+    "file": "placeholders/tile_floor_cellar.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_kitchen": {
+    "file": "placeholders/tile_floor_kitchen.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_conservatory": {
+    "file": "placeholders/tile_floor_conservatory.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_gallery": {
+    "file": "placeholders/tile_floor_gallery.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_nursery": {
+    "file": "placeholders/tile_floor_nursery.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_vault": {
+    "file": "placeholders/tile_floor_vault.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_hall": {
+    "file": "placeholders/tile_floor_hall.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "tile_floor_hall_mark": {
+    "file": "placeholders/tile_floor_hall_mark.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "wall_cap_plaster": {
+    "file": "placeholders/wall_cap_plaster.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "wall_cap_stone": {
+    "file": "placeholders/wall_cap_stone.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "wall_face_plaster": {
+    "file": "placeholders/wall_face_plaster.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "wall_face_stone": {
+    "file": "placeholders/wall_face_stone.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "decor_plant": {
+    "file": "placeholders/decor_plant.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_chair": {
+    "file": "placeholders/decor_chair.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_table_small": {
+    "file": "placeholders/decor_table_small.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_stool": {
+    "file": "placeholders/decor_stool.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_crate": {
+    "file": "placeholders/decor_crate.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_barrel": {
+    "file": "placeholders/decor_barrel.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_bookstack": {
+    "file": "placeholders/decor_bookstack.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_vase": {
+    "file": "placeholders/decor_vase.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_candelabra": {
+    "file": "placeholders/decor_candelabra.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_cushion": {
+    "file": "placeholders/decor_cushion.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_rug_small": {
+    "file": "placeholders/decor_rug_small.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decor_cobweb": {
+    "file": "placeholders/decor_cobweb.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "door_open": {
+    "file": "placeholders/door_open.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "door_locked": {
+    "file": "placeholders/door_locked.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "decal_sigil": {
+    "file": "placeholders/decal_sigil.png",
+    "kind": "decal",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "fixture_fireplace": {
+    "file": "placeholders/fixture_fireplace.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_well": {
+    "file": "placeholders/fixture_well.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_safe_closed": {
+    "file": "placeholders/fixture_safe_closed.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_safe_open": {
+    "file": "placeholders/fixture_safe_open.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_altar": {
+    "file": "placeholders/fixture_altar.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_piano": {
+    "file": "placeholders/fixture_piano.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_mirror": {
+    "file": "placeholders/fixture_mirror.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_bookcase": {
+    "file": "placeholders/fixture_bookcase.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_bed": {
+    "file": "placeholders/fixture_bed.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_clock": {
+    "file": "placeholders/fixture_clock.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_font": {
+    "file": "placeholders/fixture_font.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fixture_stove": {
+    "file": "placeholders/fixture_stove.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_key": {
+    "file": "placeholders/item_key.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_letter": {
+    "file": "placeholders/item_letter.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_candle": {
+    "file": "placeholders/item_candle.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_locket": {
+    "file": "placeholders/item_locket.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_ledger": {
+    "file": "placeholders/item_ledger.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_bottle": {
+    "file": "placeholders/item_bottle.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_coin": {
+    "file": "placeholders/item_coin.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_ring": {
+    "file": "placeholders/item_ring.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_photograph": {
+    "file": "placeholders/item_photograph.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "item_vial": {
+    "file": "placeholders/item_vial.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "vessel": {
+    "file": "placeholders/vessel.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_ghost": {
+    "file": "placeholders/maria_ghost.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_ghost_grab": {
+    "file": "placeholders/maria_ghost_grab.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_grab": {
+    "file": "placeholders/you_grab.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_sad": {
+    "file": "placeholders/you_sad.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_happy": {
+    "file": "placeholders/you_happy.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fx_accord": {
+    "file": "placeholders/fx_accord.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fx_touch": {
+    "file": "placeholders/fx_touch.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "fx_puff": {
+    "file": "placeholders/fx_puff.png",
+    "kind": "sprite",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "ui_logo_spade": {
+    "file": "placeholders/ui_logo_spade.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_frame_corner": {
+    "file": "placeholders/ui_frame_corner.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_divider": {
+    "file": "placeholders/ui_divider.png",
+    "kind": "ui",
+    "size": [
+      2048,
+      128
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_panel_dark": {
+    "file": "placeholders/ui_panel_dark.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_note": {
+    "file": "placeholders/ui_note.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_note_done": {
+    "file": "placeholders/ui_note_done.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_button": {
+    "file": "placeholders/ui_button.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_button_hover": {
+    "file": "placeholders/ui_button_hover.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_meter_frame": {
+    "file": "placeholders/ui_meter_frame.png",
+    "kind": "ui",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_portrait_frame": {
+    "file": "placeholders/ui_portrait_frame.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_laurel": {
+    "file": "placeholders/ui_laurel.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_rank_1": {
+    "file": "placeholders/ui_rank_1.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_rank_2": {
+    "file": "placeholders/ui_rank_2.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "ui_rank_3": {
+    "file": "placeholders/ui_rank_3.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "portrait_maria_novice": {
+    "file": "placeholders/portrait_maria_novice.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "portrait_maria_adept": {
+    "file": "placeholders/portrait_maria_adept.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "portrait_maria_master": {
+    "file": "placeholders/portrait_maria_master.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "portrait_you": {
+    "file": "placeholders/portrait_you.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_title": {
+    "file": "placeholders/art_title.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_arena_bg": {
+    "file": "placeholders/art_arena_bg.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_victory": {
+    "file": "placeholders/art_victory.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_defeat": {
+    "file": "placeholders/art_defeat.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_email_banner": {
+    "file": "placeholders/art_email_banner.png",
+    "kind": "art",
+    "size": [
+      1200,
+      400
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_deliver": {
+    "file": "placeholders/icon_deliver.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_visit": {
+    "file": "placeholders/icon_visit.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_carry": {
+    "file": "placeholders/icon_carry.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_expiry": {
+    "file": "placeholders/icon_expiry.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_value": {
+    "file": "placeholders/icon_value.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_energy": {
+    "file": "placeholders/icon_energy.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_snatch": {
+    "file": "placeholders/icon_snatch.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_sigil": {
+    "file": "placeholders/icon_sigil.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_you": {
+    "file": "placeholders/icon_you.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_maria": {
+    "file": "placeholders/icon_maria.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_done": {
+    "file": "placeholders/icon_done.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_taken": {
+    "file": "placeholders/icon_taken.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_expired": {
+    "file": "placeholders/icon_expired.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_untouched": {
+    "file": "placeholders/icon_untouched.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_idle": {
+    "file": "placeholders/icon_idle.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_network": {
+    "file": "placeholders/icon_network.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_unused": {
+    "file": "placeholders/icon_unused.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_read": {
+    "file": "placeholders/icon_step_read.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_run": {
+    "file": "placeholders/icon_step_run.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_build": {
+    "file": "placeholders/icon_step_build.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_change": {
+    "file": "placeholders/icon_step_change.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_adapt": {
+    "file": "placeholders/icon_step_adapt.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_official": {
+    "file": "placeholders/icon_step_official.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "icon_step_submit": {
+    "file": "placeholders/icon_step_submit.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "badge_novice": {
+    "file": "placeholders/badge_novice.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "badge_adept": {
+    "file": "placeholders/badge_adept.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "badge_master": {
+    "file": "placeholders/badge_master.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "favicon": {
+    "file": "placeholders/favicon.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "og_image": {
+    "file": "placeholders/og_image.png",
+    "kind": "art",
+    "size": [
+      1200,
+      630
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "footer_strip": {
+    "file": "placeholders/footer_strip.png",
+    "kind": "art",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_empty_matches": {
+    "file": "placeholders/art_empty_matches.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_locked": {
+    "file": "placeholders/art_locked.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_change": {
+    "file": "placeholders/art_change.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_expired": {
+    "file": "placeholders/art_expired.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_404": {
+    "file": "placeholders/art_404.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "art_submitted": {
+    "file": "placeholders/art_submitted.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "email_footer": {
+    "file": "placeholders/email_footer.png",
+    "kind": "art",
+    "size": [
+      1200,
+      120
+    ],
+    "anchor": [
+      0,
+      0
+    ]
+  },
+  "sky_moon": {
+    "file": "placeholders/sky_moon.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "sky_star": {
+    "file": "placeholders/sky_star.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "sky_cloud_a": {
+    "file": "placeholders/sky_cloud_a.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "sky_cloud_b": {
+    "file": "placeholders/sky_cloud_b.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "sky_cloud_c": {
+    "file": "placeholders/sky_cloud_c.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_tree": {
+    "file": "placeholders/scene_tree.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_bush_a": {
+    "file": "placeholders/scene_bush_a.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_bush_b": {
+    "file": "placeholders/scene_bush_b.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_fence": {
+    "file": "placeholders/scene_fence.png",
+    "kind": "sprite",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_hill": {
+    "file": "placeholders/scene_hill.png",
+    "kind": "sprite",
+    "size": [
+      2048,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "scene_lamp": {
+    "file": "placeholders/scene_lamp.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_1": {
+    "file": "placeholders/you_walk_1.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_2": {
+    "file": "placeholders/you_walk_2.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_3": {
+    "file": "placeholders/you_walk_3.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_4": {
+    "file": "placeholders/you_walk_4.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_5": {
+    "file": "placeholders/you_walk_5.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "you_walk_6": {
+    "file": "placeholders/you_walk_6.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_wave": {
+    "file": "placeholders/maria_wave.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_sleep": {
+    "file": "placeholders/maria_sleep.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_shock": {
+    "file": "placeholders/maria_shock.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "maria_smug": {
+    "file": "placeholders/maria_smug.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "confetti_a": {
+    "file": "placeholders/confetti_a.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "confetti_b": {
+    "file": "placeholders/confetti_b.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "confetti_c": {
+    "file": "placeholders/confetti_c.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "confetti_d": {
+    "file": "placeholders/confetti_d.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "cursor_spade": {
+    "file": "placeholders/cursor_spade.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "cursor_hand": {
+    "file": "placeholders/cursor_hand.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "ornament_header": {
+    "file": "placeholders/ornament_header.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  },
+  "sticker_new": {
+    "file": "placeholders/sticker_new.png",
+    "kind": "sprite",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ]
+  }
+}

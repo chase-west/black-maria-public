@@ -1,0 +1,840 @@
+{
+  "tile_floor_corridor": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-f03f6043-76cd-4781-a67b-bee5ce7474ce.png",
+    "candidate": "review/map/tile_floor_corridor_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 10.0,
+    "brightness_percentiles": [
+      220.0,
+      230.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-561a269e-7bf1-4f1d-8101-0232b17f85f1.png",
+        "candidate": "review/map/tile_floor_corridor_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 12.0,
+        "brightness_percentiles": [
+          218.0,
+          230.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_corridor.png"
+  },
+  "tile_floor_study": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-8d4d2a15-e7c1-4863-8a23-03b8b0f1d9e9.png",
+    "candidate": "review/map/tile_floor_study_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 10.0,
+    "brightness_percentiles": [
+      147.0,
+      157.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-b7f42359-2af0-42c3-9a75-85b18c0aa252.png",
+        "candidate": "review/map/tile_floor_study_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 16.0,
+        "brightness_percentiles": [
+          141.0,
+          157.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_study.png"
+  },
+  "tile_floor_chapel": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-7f12eb02-5c73-4e37-b664-6ba9ce4ff757.png",
+    "candidate": "review/map/tile_floor_chapel_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 11.0,
+    "brightness_percentiles": [
+      211.0,
+      222.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-5ff4d624-7bb5-4a04-8467-67751cc2c796.png",
+        "candidate": "review/map/tile_floor_chapel_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 18.0,
+        "brightness_percentiles": [
+          203.0,
+          221.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_chapel.png"
+  },
+  "tile_floor_library": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-b9d0c3ad-4bf1-4851-b263-9d6f4c5edf0d.png",
+    "candidate": "review/map/tile_floor_library_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 11.0,
+    "brightness_percentiles": [
+      174.0,
+      185.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-2e565d8a-057b-48dc-88f9-b0f45ba4022d.png",
+        "candidate": "review/map/tile_floor_library_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 14.0,
+        "brightness_percentiles": [
+          172.0,
+          186.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_library.png"
+  },
+  "tile_floor_hall": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-0d217224-574e-47be-afb6-331af0876c27.png",
+    "candidate": "review/map/tile_floor_hall_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 9.0,
+    "brightness_percentiles": [
+      222.0,
+      231.0
+    ],
+    "flatness_pass": true,
+    "history": [],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_hall.png"
+  },
+  "tile_floor_cellar": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-193fb70e-a9e8-49f0-90a6-162717b8de88.png",
+    "candidate": "review/map/tile_floor_cellar_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 9.0,
+    "brightness_percentiles": [
+      91.0,
+      100.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-7175cf91-46b1-4b7f-87e4-972fb13b4bf1.png",
+        "candidate": "review/map/tile_floor_cellar_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 13.0,
+        "brightness_percentiles": [
+          87.0,
+          100.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_cellar.png"
+  },
+  "tile_floor_kitchen": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-d534493d-f14c-4e36-98e0-b4098df90daf.png",
+    "candidate": "review/map/tile_floor_kitchen_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 15.0,
+    "brightness_percentiles": [
+      215.0,
+      230.0
+    ],
+    "flatness_pass": true,
+    "history": [],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_kitchen.png"
+  },
+  "tile_floor_conservatory": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-17ffbe27-4fbf-424a-8c04-620fdb00d819.png",
+    "candidate": "review/map/tile_floor_conservatory_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 12.0,
+    "brightness_percentiles": [
+      158.0,
+      170.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-50bd711b-a564-493c-87b5-f3a4ca59976d.png",
+        "candidate": "review/map/tile_floor_conservatory_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 12.0,
+        "brightness_percentiles": [
+          156.0,
+          168.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_conservatory.png"
+  },
+  "tile_floor_nursery": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-6df14d94-60f3-4902-93f5-0abe2a02c922.png",
+    "candidate": "review/map/tile_floor_nursery_attempt3.png",
+    "attempt": 3,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 13.0,
+    "brightness_percentiles": [
+      219.0,
+      232.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-7a1f8916-5e3d-4bd0-b334-eb3eea1a3fa5.png",
+        "candidate": "review/map/tile_floor_nursery_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 17.0,
+        "brightness_percentiles": [
+          211.0,
+          228.0
+        ],
+        "flatness_pass": true
+      },
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-fddfc6ac-70ef-40ab-a213-410bc5a57ec0.png",
+        "candidate": "review/map/tile_floor_nursery_attempt2.png",
+        "attempt": 2,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 9.0,
+        "brightness_percentiles": [
+          220.0,
+          229.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_nursery.png"
+  },
+  "tile_floor_gallery": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-7ef40f46-9204-4447-a546-2fb9e44c1da3.png",
+    "candidate": "review/map/tile_floor_gallery_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 5.0,
+    "brightness_percentiles": [
+      120.0,
+      125.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-1bc494c2-c69f-4dd2-ab25-85c78239dbea.png",
+        "candidate": "review/map/tile_floor_gallery_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 3.0,
+        "brightness_percentiles": [
+          120.0,
+          123.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_gallery.png"
+  },
+  "tile_floor_vault": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-30b16858-8abe-4d19-84e2-c1e795f77d1d.png",
+    "candidate": "review/map/tile_floor_vault_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 11.0,
+    "brightness_percentiles": [
+      90.0,
+      101.0
+    ],
+    "flatness_pass": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-1a2c87e8-b809-4ce9-89c6-daa279cccbb7.png",
+        "candidate": "review/map/tile_floor_vault_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null,
+        "brightness_range": 19.0,
+        "brightness_percentiles": [
+          91.0,
+          110.0
+        ],
+        "flatness_pass": true
+      }
+    ],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_vault.png"
+  },
+  "tile_floor_hall_mark": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-72a4c2c6-9398-4ea3-95ee-e799f4c53fab.png",
+    "candidate": "review/map/tile_floor_hall_mark_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": null,
+    "brightness_range": 173.0,
+    "brightness_percentiles": [
+      58.0,
+      231.0
+    ],
+    "background_brightness_range": 9.0,
+    "flatness_pass": true,
+    "history": [],
+    "qa_note": "3\u00d73 repeat and 64 px view inspected; quiet tonal pattern, no hard repeat seams.",
+    "thumbnail": "review/map/tile_floor_hall_mark.png"
+  },
+  "wall_face_stone": {
+    "native_size": [
+      1774,
+      887
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-86273891-c852-412b-8974-0dd491380ae9.png",
+    "candidate": "review/map/wall_face_stone_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": null,
+    "history": [],
+    "qa_note": "3\u00d73 repeat inspected; cap highlight is the intended wall edge; faces join horizontally.",
+    "thumbnail": "review/map/wall_face_stone.png"
+  },
+  "fixture_piano": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-f1cfdb32-3607-4f6c-a794-97eda9e5ab50.png",
+    "candidate": "review/map/fixture_piano_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Large 90% silhouette recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/fixture_piano.png"
+  },
+  "fixture_bed": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-bdba2593-f948-47e5-a828-8a6b2e650b8f.png",
+    "candidate": "review/map/fixture_bed_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Large 90% silhouette recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/fixture_bed.png"
+  },
+  "wall_cap_plaster": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-56533cc1-b686-457a-88d5-e2ced47f2f93.png",
+    "candidate": "review/map/wall_cap_plaster_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-d64ba4a4-2fd0-4884-b8b4-3a79de13bb2d.png",
+        "candidate": "review/map/wall_cap_plaster_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null
+      }
+    ],
+    "qa_note": "3\u00d73 repeat inspected; cap highlight is the intended wall edge; faces join horizontally.",
+    "thumbnail": "review/map/wall_cap_plaster.png"
+  },
+  "wall_cap_stone": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-807ab241-bfcf-4425-884c-a4ec8e45887c.png",
+    "candidate": "review/map/wall_cap_stone_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": null,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-c42f3df4-e895-40ed-9fcc-84beeef15ac6.png",
+        "candidate": "review/map/wall_cap_stone_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": null
+      }
+    ],
+    "qa_note": "3\u00d73 repeat inspected; cap highlight is the intended wall edge; faces join horizontally.",
+    "thumbnail": "review/map/wall_cap_stone.png"
+  },
+  "door_open": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-360d95d2-16d4-425a-a4fd-c3ac91d1419b.png",
+    "candidate": "review/map/door_open_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-5a0e26c1-08e2-4d2b-aed9-f48e851632e3.png",
+        "candidate": "review/map/door_open_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "Matched cocoa/cream frames, open/locked states recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/door_open.png"
+  },
+  "wall_face_plaster": {
+    "native_size": [
+      1774,
+      887
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-8e42d870-2ca5-4cf2-ac46-84d0144ca184.png",
+    "candidate": "review/map/wall_face_plaster_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": null,
+    "history": [],
+    "qa_note": "3\u00d73 repeat inspected; cap highlight is the intended wall edge; faces join horizontally.",
+    "thumbnail": "review/map/wall_face_plaster.png"
+  },
+  "fixture_fireplace": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-1e334392-2542-487e-95df-3bb7eeb39348.png",
+    "candidate": "review/map/fixture_fireplace_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Large 90% silhouette recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/fixture_fireplace.png"
+  },
+  "fixture_bookcase": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-88508193-da0c-4f5b-a41f-7fcdb6e76a25.png",
+    "candidate": "review/map/fixture_bookcase_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Large 90% silhouette recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/fixture_bookcase.png"
+  },
+  "decor_plant": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-34e4c686-8cb7-481e-bd83-9e19c124ace2.png",
+    "candidate": "review/map/decor_plant_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_plant.png"
+  },
+  "decor_chair": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-8fa14933-24db-4b50-9616-325045d194ed.png",
+    "candidate": "review/map/decor_chair_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-f07aaf70-3194-4433-b6b2-a1a19e5085e2.png",
+        "candidate": "review/map/decor_chair_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_chair.png"
+  },
+  "fixture_altar": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-076ed19d-c8c2-4d70-93c6-4c6ae86a7e47.png",
+    "candidate": "review/map/fixture_altar_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Large 90% silhouette recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/fixture_altar.png"
+  },
+  "decor_table_small": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-161c28b9-5532-4c8e-877e-01a29c81c0ec.png",
+    "candidate": "review/map/decor_table_small_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_table_small.png"
+  },
+  "decor_stool": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-82bdb2b7-07b3-4fdb-ab9d-48db01e616a1.png",
+    "candidate": "review/map/decor_stool_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-6edc2b49-4c23-4153-98ee-3bb9a05855e5.png",
+        "candidate": "review/map/decor_stool_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_stool.png"
+  },
+  "decor_bookstack": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-04ae468e-be77-4c9a-827b-c85b9b7464f7.png",
+    "candidate": "review/map/decor_bookstack_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_bookstack.png"
+  },
+  "decor_crate": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-bd07129a-8926-4688-a6a3-325854ab39de.png",
+    "candidate": "review/map/decor_crate_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-3a04e231-f2d2-4cda-b889-544f5dafbcfc.png",
+        "candidate": "review/map/decor_crate_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_crate.png"
+  },
+  "decor_barrel": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-45a8bd30-b5b8-44bf-90ad-f00303ef9933.png",
+    "candidate": "review/map/decor_barrel_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-7483cb29-bbd8-4da7-8e60-17368eafb5a8.png",
+        "candidate": "review/map/decor_barrel_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_barrel.png"
+  },
+  "decor_vase": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-e619d36b-ce89-43dd-abc6-5b1b2ffbd895.png",
+    "candidate": "review/map/decor_vase_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_vase.png"
+  },
+  "decor_candelabra": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-9e5740c8-808c-45bd-99b8-a0536039447f.png",
+    "candidate": "review/map/decor_candelabra_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_candelabra.png"
+  },
+  "decor_cobweb": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-6f058d7f-0c9b-4452-a760-04b40fd8ac26.png",
+    "candidate": "review/map/decor_cobweb_attempt2.png",
+    "attempt": 2,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [
+      {
+        "native_size": [
+          1254,
+          1254
+        ],
+        "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-1edd2f73-c907-4f54-b9c5-1a0947c42f5c.png",
+        "candidate": "review/map/decor_cobweb_attempt1.png",
+        "attempt": 1,
+        "status": "REVIEW",
+        "alpha_verified": true
+      }
+    ],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_cobweb.png"
+  },
+  "decor_rug_small": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-5bb5389d-1aa4-4971-b604-e4f75793171c.png",
+    "candidate": "review/map/decor_rug_small_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_rug_small.png"
+  },
+  "decor_cushion": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-75aa0d76-1a10-42a1-92f7-44ec53962f7f.png",
+    "candidate": "review/map/decor_cushion_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "60% frame prop recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/decor_cushion.png"
+  },
+  "door_locked": {
+    "native_size": [
+      1254,
+      1254
+    ],
+    "source": "/Users/chase/.codex/generated_images/01a12304-b3cc-79a1-b20c-42ddb4c12a66/exec-24fce3df-1578-4728-afd6-64ae915eb72e.png",
+    "candidate": "review/map/door_locked_attempt1.png",
+    "attempt": 1,
+    "status": "PASS",
+    "alpha_verified": true,
+    "history": [],
+    "qa_note": "Matched cocoa/cream frames, open/locked states recognizable at 64 px; true alpha, no baked shadow.",
+    "thumbnail": "review/map/door_locked.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "@blackmaria/assetgen",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "source": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json && node dist/generate.js",
+    "typecheck": "tsc -p tsconfig.json",
+    "generate": "tsx --conditions=source src/generate.ts"
+  },
+  "dependencies": {
+    "@blackmaria/style": "workspace:*",
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/pngjs": "^6.0.5"
+  }
+}

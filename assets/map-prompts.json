@@ -1,0 +1,457 @@
+[
+  {
+    "name": "tile_floor_corridor",
+    "file": "tile_floor_corridor.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat cream stone floor, a faint suggestion of large flagstones in a slightly deeper cream, almost invisible joints.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #F6E7C8. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_hall",
+    "file": "tile_floor_hall.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat cream floor with a very faint large checkerboard in a cream one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #F6E7C8. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_hall_mark",
+    "file": "tile_floor_hall_mark.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nThe same faint cream checkerboard with a big chubby cocoa spade painted at center with a mustard outline. This is the only floor tile allowed a dark element.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #F6E7C8. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects. Exception: ONE large cocoa spade with a mustard outline at the exact center, 35% of canvas width. Only its background must pass the flatness test.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_library",
+    "file": "tile_floor_library.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat light mustard floor with a faint herringbone suggested in a mustard one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #E9B44C. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_study",
+    "file": "tile_floor_study.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat light cocoa-tan floor with faint wide plank lines in a tan one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #BC9C77. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_chapel",
+    "file": "tile_floor_chapel.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat pale cream-grey stone with faint large slab joints one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #E5E1D2. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_cellar",
+    "file": "tile_floor_cellar.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat deep teal floor with a faint brick pattern in a teal one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #267E76. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_kitchen",
+    "file": "tile_floor_kitchen.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat warm cream floor with a faint small tile grid one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #F6E7C8. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_conservatory",
+    "file": "tile_floor_conservatory.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat light moss floor with a faint geometric tile pattern one shade deeper.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #A2B98A. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_gallery",
+    "file": "tile_floor_gallery.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat mid teal floor with a faint thin border pattern one shade lighter.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #2A9D8F. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_nursery",
+    "file": "tile_floor_nursery.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat pale cream floor with faint floorboards one shade deeper and a few barely visible coral dots.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #F6E7C8. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "tile_floor_vault",
+    "file": "tile_floor_vault.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat dark cocoa-grey metal floor with faint plate seams one shade lighter.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. Extremely low contrast, almost flat, the pattern is barely visible, no dark outlines, no cocoa lines, reads as one color from a distance.\nMAP FLOOR OVERRIDE: The thick outlines and high-contrast grain in the reference are NOT for floors. Base fill #655957. Use only this base hue and a single adjacent tonal variation at most 8 grayscale units apart. No illumination gradient, vignette, highlights, cocoa grain or isolated dark specks. Flat full bleed across the whole canvas. Sparse faint marks only. No floating swatch, perspective or outside border. Keep every edge an uninterrupted base fill; all pattern lines fade out before canvas edges. No decorative objects.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "wall_cap_plaster",
+    "file": "wall_cap_plaster.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "wall",
+    "section": 2,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat cocoa-brown wall top seen from directly above with a faint lighter cocoa highlight line along the top edge, almost no texture.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. FULL BLEED cocoa top surface, not a floating wall block. Almost flat. Faint highlight is a flat printed tonal stroke, not lighting or shading; no gradients. All edges connect without a frame.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "wall_face_plaster",
+    "file": "wall_face_plaster.png",
+    "size": [
+      1024,
+      512
+    ],
+    "kind": "wall",
+    "section": 2,
+    "suffix": "STRIP",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFront face of a plaster wall in slate blue-grey with a few faint wobbly cocoa cracks, a thin cocoa baseboard line along the bottom, flat fill.\n\nHorizontal strip, tileable left to right only, hard top and bottom edges, no transparency. Front face ONLY. Fill the entire 2:1 rectangle. No top cap, side face, perspective, floor or outside margin. Straight hard top/bottom edges. Horizontal joints align at left and right edges. Slate blue-grey requested here is an explicit map-pass tonal exception to the old palette.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d7512."
+  },
+  {
+    "name": "wall_cap_stone",
+    "file": "wall_cap_stone.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "wall",
+    "section": 2,
+    "suffix": "TILE",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat cocoa-brown wall top seen from directly above with a faint lighter line along the top edge, a hint of large stone blocks.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam. FULL BLEED cocoa top surface, not a floating wall block. Almost flat. Faint highlight is a flat printed tonal stroke, not lighting or shading; no gradients. All edges connect without a frame.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "wall_face_stone",
+    "file": "wall_face_stone.png",
+    "size": [
+      1024,
+      512
+    ],
+    "kind": "wall",
+    "section": 2,
+    "suffix": "STRIP",
+    "transparent": false,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFront face of a chunky stone wall in slate with cocoa mortar lines drawn wobbly, flat fill, a thin cocoa baseboard along the bottom.\n\nHorizontal strip, tileable left to right only, hard top and bottom edges, no transparency. Front face ONLY. Fill the entire 2:1 rectangle. No top cap, side face, perspective, floor or outside margin. Straight hard top/bottom edges. Horizontal joints align at left and right edges. Slate blue-grey requested here is an explicit map-pass tonal exception to the old palette.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d7512."
+  },
+  {
+    "name": "door_open",
+    "file": "door_open.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 3,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA rounded doorway frame in cocoa with a cream inner edge, drawn as two tall posts and an arched lintel with nothing between them, sized to sit in a one-tile gap in a wall.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 85% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "door_locked",
+    "file": "door_locked.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 3,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nThe same frame with a chubby cocoa door filling it, a big mustard keyhole plate, and a coral padlock.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 85% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "fixture_bed",
+    "file": "fixture_bed.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 4,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA chubby bed with a tall cocoa headboard, a moss blanket with a cream fold at the top, one cream pillow, two round feet poking out the bottom of the blanket. Fills the frame.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 90% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "fixture_piano",
+    "file": "fixture_piano.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 4,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA tall upright piano in cocoa, lid open, cream keys, a round stool in front, one flat coral music note floating above. Fills the frame.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 90% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "fixture_bookcase",
+    "file": "fixture_bookcase.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 4,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA tall leaning bookcase stuffed with flat coral, teal, mustard, and cream books, one book sticking out, a small plant on top. Fills the frame.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 90% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "fixture_fireplace",
+    "file": "fixture_fireplace.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 4,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA tall crooked stone fireplace with a mustard mantel, a round clock on the mantel, three flat coral flame marks in the hearth, a small log pile beside it. Fills the frame.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 90% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "fixture_altar",
+    "file": "fixture_altar.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 4,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA tall stone table with a moss cloth, two tall cream candles with coral flames, a small mustard bowl between them. Fills the frame.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 90% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_plant",
+    "file": "decor_plant.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA potted plant with big flat moss leaves in a coral pot.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_chair",
+    "file": "decor_chair.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA small wooden chair in cocoa with a cream cushion, slightly crooked.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_table_small",
+    "file": "decor_table_small.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA small round side table in cocoa with a mustard cloth.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_stool",
+    "file": "decor_stool.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA three-legged stool in cocoa.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_crate",
+    "file": "decor_crate.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA wooden crate in light cocoa with a flat spade stamp.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_barrel",
+    "file": "decor_barrel.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA chubby barrel in cocoa with two teal hoops.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_bookstack",
+    "file": "decor_bookstack.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA leaning stack of four flat books in coral, teal, mustard, and cream.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_vase",
+    "file": "decor_vase.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA tall round teal vase with one flat coral flower.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_candelabra",
+    "file": "decor_candelabra.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA three-arm mustard candelabra with coral flames.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_cushion",
+    "file": "decor_cushion.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA big round floor cushion in coral with a cream button.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_rug_small",
+    "file": "decor_rug_small.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA small oval braided rug in moss and cream rings. Drawn under everything.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  },
+  {
+    "name": "decor_cobweb",
+    "file": "decor_cobweb.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "sprite",
+    "section": 5,
+    "suffix": "SPRITE",
+    "transparent": true,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA faint cream cobweb for cellar and vault corners.\n\nSingle object, centered, 3/4 top-down view as in a 16-bit adventure game, isolated on a fully transparent background, PNG with alpha, no cast shadow. Clean, tall, simple silhouette filling 60% of frame. No floor or backdrop, no cast shadow or contact shadow. Transparent inside empty openings too. Only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069. No lilac, black, white, new hues, gradients, shading or shine. Use mustard as the allowed light wood tone when needed.\nMatch the style of the attached reference sheet exactly, subject to the explicit map-floor low-contrast override. Reference is for style ONLY; output only the requested asset. No text, watermark, extra studies or sheet. No baked shadow. Output dimensions 1024\u00d71024."
+  }
+]

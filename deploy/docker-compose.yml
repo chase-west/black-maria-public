@@ -1,0 +1,53 @@
+# Usage (from the repository root): docker compose -f deploy/docker-compose.yml --env-file deploy/.env up -d --build
+# Exposed: TCP 443 (Caddy, TLS for the portal and the WebSocket), UDP 7777 and UDP 443 (the wire, straight to the app).
+services:
+  app:
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      PUBLIC_URL: https://${DOMAIN}${HTTPS_PORT_SUFFIX:-}
+      COOKIE_SECURE: "1"
+      # The wire: UDP 7777 and the fallback on UDP 443 (SPEC 5.2). The portal tells clients this host.
+      WIRE_PORT: "7777"
+      WIRE_PORT_FALLBACK: "443"
+      WIRE_HOST: ${WIRE_HOST:-${DOMAIN}}
+      # The ports clients are told; they differ from 7777 and 443 only in a port-mapped test deploy.
+      WIRE_PORTS_PUBLIC: ${WIRE_PORT_HOST:-7777},${WIRE_FALLBACK_HOST:-443}
+    ports:
+      - "${WIRE_PORT_HOST:-7777}:7777/udp"
+      - "${WIRE_FALLBACK_HOST:-443}:443/udp"
+    # Lets the unprivileged app user bind UDP 443 inside its own network namespace.
+    sysctls:
+      net.ipv4.ip_unprivileged_port_start: "0"
+    volumes:
+      - data:/data
+      # Art is drop-in: files copied into ../assets are served without a rebuild or restart.
+      - ../assets:/app/assets
+    stop_grace_period: 30s
+    deploy:
+      resources:
+        limits:
+          cpus: "${APP_CPUS:-2}"
+          memory: 1g
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    depends_on:
+      - app
+    # TCP only: UDP 443 belongs to the wire, so Caddy serves HTTP/1.1 and HTTP/2 and no HTTP/3.
+    ports:
+      - "${HTTPS_PORT:-443}:443/tcp"
+    environment:
+      DOMAIN: ${DOMAIN}
+      ACME_EMAIL: ${ACME_EMAIL:-}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+volumes:
+  data:
+  caddy_data:
+  caddy_config:

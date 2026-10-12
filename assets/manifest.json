@@ -1,0 +1,2243 @@
+{
+  "tile_floor_corridor": {
+    "file": "tile_floor_corridor.png",
+    "px": "px/tile_floor_corridor.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_hall": {
+    "file": "tile_floor_hall.png",
+    "px": "px/tile_floor_hall.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_hall_mark": {
+    "file": "tile_floor_hall_mark.png",
+    "px": "px/tile_floor_hall_mark.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_library": {
+    "file": "tile_floor_library.png",
+    "px": "px/tile_floor_library.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_study": {
+    "file": "tile_floor_study.png",
+    "px": "px/tile_floor_study.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_chapel": {
+    "file": "tile_floor_chapel.png",
+    "px": "px/tile_floor_chapel.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_cellar": {
+    "file": "tile_floor_cellar.png",
+    "px": "px/tile_floor_cellar.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_kitchen": {
+    "file": "tile_floor_kitchen.png",
+    "px": "px/tile_floor_kitchen.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_conservatory": {
+    "file": "tile_floor_conservatory.png",
+    "px": "px/tile_floor_conservatory.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_gallery": {
+    "file": "tile_floor_gallery.png",
+    "px": "px/tile_floor_gallery.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_nursery": {
+    "file": "tile_floor_nursery.png",
+    "px": "px/tile_floor_nursery.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "tile_floor_vault": {
+    "file": "tile_floor_vault.png",
+    "px": "px/tile_floor_vault.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "door_open": {
+    "file": "door_open.png",
+    "px": "px/door_open.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "door_locked": {
+    "file": "door_locked.png",
+    "px": "px/door_locked.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decal_sigil": {
+    "file": "decal_sigil.png",
+    "kind": "decal",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "px": "px/decal_sigil.png",
+    "qa_status": "PASS"
+  },
+  "decal_threshold": {
+    "file": "decal_threshold.png",
+    "kind": "decal",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "px": "px/decal_threshold.png",
+    "qa_status": "PASS"
+  },
+  "decal_rug": {
+    "file": "decal_rug.png",
+    "kind": "decal",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "px": "px/decal_rug.png",
+    "qa_status": "PASS"
+  },
+  "fixture_fireplace": {
+    "file": "fixture_fireplace.png",
+    "px": "px/fixture_fireplace.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_piano": {
+    "file": "fixture_piano.png",
+    "px": "px/fixture_piano.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_mirror": {
+    "file": "fixture_mirror.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_mirror.png",
+    "qa_status": "PASS"
+  },
+  "fixture_altar": {
+    "file": "fixture_altar.png",
+    "px": "px/fixture_altar.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_safe_closed": {
+    "file": "fixture_safe_closed.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_safe_closed.png",
+    "qa_status": "PASS"
+  },
+  "fixture_well": {
+    "file": "fixture_well.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_well.png",
+    "qa_status": "PASS"
+  },
+  "fixture_bookcase": {
+    "file": "fixture_bookcase.png",
+    "px": "px/fixture_bookcase.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_bed": {
+    "file": "fixture_bed.png",
+    "px": "px/fixture_bed.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_clock": {
+    "file": "fixture_clock.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_clock.png",
+    "qa_status": "PASS"
+  },
+  "fixture_font": {
+    "file": "fixture_font.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_font.png",
+    "qa_status": "PASS"
+  },
+  "fixture_stove": {
+    "file": "fixture_stove.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_stove.png",
+    "qa_status": "PASS"
+  },
+  "item_locket": {
+    "file": "item_locket.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_locket.png",
+    "qa_status": "PASS"
+  },
+  "item_key": {
+    "file": "item_key.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_key.png",
+    "qa_status": "PASS"
+  },
+  "item_coin": {
+    "file": "item_coin.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_coin.png",
+    "qa_status": "PASS"
+  },
+  "item_ledger": {
+    "file": "item_ledger.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_ledger.png",
+    "qa_status": "PASS"
+  },
+  "item_letter": {
+    "file": "item_letter.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_letter.png",
+    "qa_status": "PASS"
+  },
+  "item_candle": {
+    "file": "item_candle.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_candle.png",
+    "qa_status": "PASS"
+  },
+  "item_bottle": {
+    "file": "item_bottle.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_bottle.png",
+    "qa_status": "PASS"
+  },
+  "item_ring": {
+    "file": "item_ring.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_ring.png",
+    "qa_status": "PASS"
+  },
+  "item_vial": {
+    "file": "item_vial.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_vial.png",
+    "qa_status": "PASS"
+  },
+  "item_photograph": {
+    "file": "item_photograph.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/item_photograph.png",
+    "qa_status": "PASS"
+  },
+  "vessel": {
+    "file": "vessel.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/vessel.png",
+    "qa_status": "PASS"
+  },
+  "fx_accord": {
+    "file": "fx_accord.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fx_accord.png",
+    "qa_status": "PASS"
+  },
+  "fx_shudder": {
+    "file": "fx_shudder.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fx_shudder.png",
+    "qa_status": "PASS"
+  },
+  "fx_touch": {
+    "file": "fx_touch.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fx_touch.png",
+    "qa_status": "PASS"
+  },
+  "fx_held_ring": {
+    "file": "fx_held_ring.png",
+    "kind": "decal",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "px": "px/fx_held_ring.png",
+    "qa_status": "PASS"
+  },
+  "fx_puff": {
+    "file": "fx_puff.png",
+    "kind": "sprite",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fx_puff.png",
+    "qa_status": "PASS"
+  },
+  "ui_frame_corner": {
+    "file": "ui_frame_corner.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_logo_spade": {
+    "file": "ui_logo_spade.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_divider": {
+    "file": "ui_divider.png",
+    "kind": "ui",
+    "size": [
+      2048,
+      128
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_panel_dark": {
+    "file": "ui_panel_dark.png",
+    "kind": "tile",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "px": "px/ui_panel_dark.png",
+    "qa_status": "PASS"
+  },
+  "ui_note": {
+    "file": "ui_note.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_button": {
+    "file": "ui_button.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "fixture_safe_open": {
+    "file": "fixture_safe_open.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "px": "px/fixture_safe_open.png",
+    "qa_status": "PASS"
+  },
+  "ui_note_done": {
+    "file": "ui_note_done.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_button_hover": {
+    "file": "ui_button_hover.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_meter_frame": {
+    "file": "ui_meter_frame.png",
+    "kind": "ui",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_laurel": {
+    "file": "ui_laurel.png",
+    "kind": "ui",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_portrait_frame": {
+    "file": "ui_portrait_frame.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_rank_2": {
+    "file": "ui_rank_2.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_rank_1": {
+    "file": "ui_rank_1.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_rank_3": {
+    "file": "ui_rank_3.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_reach": {
+    "file": "ui_icon_reach.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_linger": {
+    "file": "ui_icon_linger.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_take": {
+    "file": "ui_icon_take.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_keep": {
+    "file": "ui_icon_keep.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_deliver": {
+    "file": "ui_icon_deliver.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_end": {
+    "file": "ui_icon_end.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_will": {
+    "file": "ui_icon_will.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_wait": {
+    "file": "ui_icon_wait.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_use": {
+    "file": "ui_icon_use.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "ui_icon_drop": {
+    "file": "ui_icon_drop.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "portrait_maria_novice": {
+    "file": "portrait_maria_novice.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "portrait_you": {
+    "file": "portrait_you.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_victory": {
+    "file": "art_victory.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_arena_bg": {
+    "file": "art_arena_bg.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_title": {
+    "file": "art_title.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_defeat": {
+    "file": "art_defeat.png",
+    "kind": "art",
+    "size": [
+      2560,
+      1440
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_email_banner": {
+    "file": "art_email_banner.png",
+    "kind": "art",
+    "size": [
+      1200,
+      400
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "portrait_maria_adept": {
+    "file": "portrait_maria_adept.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "portrait_maria_master": {
+    "file": "portrait_maria_master.png",
+    "kind": "portrait",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "wall_cap_plaster": {
+    "file": "wall_cap_plaster.png",
+    "px": "px/wall_cap_plaster.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "wall_face_plaster": {
+    "file": "wall_face_plaster.png",
+    "px": "px/wall_face_plaster.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "wall_cap_stone": {
+    "file": "wall_cap_stone.png",
+    "px": "px/wall_cap_stone.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "wall_face_stone": {
+    "file": "wall_face_stone.png",
+    "px": "px/wall_face_stone.png",
+    "kind": "wall",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_plant": {
+    "file": "decor_plant.png",
+    "px": "px/decor_plant.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_chair": {
+    "file": "decor_chair.png",
+    "px": "px/decor_chair.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_table_small": {
+    "file": "decor_table_small.png",
+    "px": "px/decor_table_small.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_stool": {
+    "file": "decor_stool.png",
+    "px": "px/decor_stool.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_crate": {
+    "file": "decor_crate.png",
+    "px": "px/decor_crate.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_barrel": {
+    "file": "decor_barrel.png",
+    "px": "px/decor_barrel.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_bookstack": {
+    "file": "decor_bookstack.png",
+    "px": "px/decor_bookstack.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_vase": {
+    "file": "decor_vase.png",
+    "px": "px/decor_vase.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_candelabra": {
+    "file": "decor_candelabra.png",
+    "px": "px/decor_candelabra.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_cushion": {
+    "file": "decor_cushion.png",
+    "px": "px/decor_cushion.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_rug_small": {
+    "file": "decor_rug_small.png",
+    "px": "px/decor_rug_small.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "decor_cobweb": {
+    "file": "decor_cobweb.png",
+    "px": "px/decor_cobweb.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "maria_ghost": {
+    "file": "maria_ghost.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS",
+    "px": "px/maria_ghost.png"
+  },
+  "maria_ghost_grab": {
+    "file": "maria_ghost_grab.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS",
+    "px": "px/maria_ghost_grab.png"
+  },
+  "you_grab": {
+    "file": "you_grab.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS",
+    "px": "px/you_grab.png"
+  },
+  "you_sad": {
+    "file": "you_sad.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS",
+    "px": "px/you_sad.png"
+  },
+  "you_happy": {
+    "file": "you_happy.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS",
+    "px": "px/you_happy.png"
+  },
+  "icon_deliver": {
+    "file": "icon_deliver.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_visit": {
+    "file": "icon_visit.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_carry": {
+    "file": "icon_carry.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_expiry": {
+    "file": "icon_expiry.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_value": {
+    "file": "icon_value.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_energy": {
+    "file": "icon_energy.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_snatch": {
+    "file": "icon_snatch.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_sigil": {
+    "file": "icon_sigil.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_you": {
+    "file": "icon_you.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_maria": {
+    "file": "icon_maria.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_done": {
+    "file": "icon_done.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_taken": {
+    "file": "icon_taken.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_expired": {
+    "file": "icon_expired.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_untouched": {
+    "file": "icon_untouched.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_idle": {
+    "file": "icon_idle.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_network": {
+    "file": "icon_network.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_unused": {
+    "file": "icon_unused.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_read": {
+    "file": "icon_step_read.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_run": {
+    "file": "icon_step_run.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_build": {
+    "file": "icon_step_build.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_change": {
+    "file": "icon_step_change.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_adapt": {
+    "file": "icon_step_adapt.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_official": {
+    "file": "icon_step_official.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "icon_step_submit": {
+    "file": "icon_step_submit.png",
+    "kind": "ui",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "badge_novice": {
+    "file": "badge_novice.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "badge_adept": {
+    "file": "badge_adept.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "badge_master": {
+    "file": "badge_master.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "favicon": {
+    "file": "favicon.png",
+    "kind": "ui",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "og_image": {
+    "file": "og_image.png",
+    "kind": "art",
+    "size": [
+      1200,
+      630
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "footer_strip": {
+    "file": "footer_strip.png",
+    "kind": "art",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_empty_matches": {
+    "file": "art_empty_matches.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_locked": {
+    "file": "art_locked.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_change": {
+    "file": "art_change.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_expired": {
+    "file": "art_expired.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_404": {
+    "file": "art_404.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "art_submitted": {
+    "file": "art_submitted.png",
+    "kind": "art",
+    "size": [
+      1024,
+      768
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "email_footer": {
+    "file": "email_footer.png",
+    "kind": "art",
+    "size": [
+      1200,
+      120
+    ],
+    "anchor": [
+      0,
+      0
+    ],
+    "qa_status": "PASS"
+  },
+  "sky_moon": {
+    "file": "sky_moon.png",
+    "px": "px/sky_moon.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "sky_star": {
+    "file": "sky_star.png",
+    "px": "px/sky_star.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "sky_cloud_a": {
+    "file": "sky_cloud_a.png",
+    "px": "px/sky_cloud_a.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "sky_cloud_b": {
+    "file": "sky_cloud_b.png",
+    "px": "px/sky_cloud_b.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "sky_cloud_c": {
+    "file": "sky_cloud_c.png",
+    "px": "px/sky_cloud_c.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_tree": {
+    "file": "scene_tree.png",
+    "px": "px/scene_tree.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_bush_a": {
+    "file": "scene_bush_a.png",
+    "px": "px/scene_bush_a.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_bush_b": {
+    "file": "scene_bush_b.png",
+    "px": "px/scene_bush_b.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_fence": {
+    "file": "scene_fence.png",
+    "px": "px/scene_fence.png",
+    "kind": "sprite",
+    "size": [
+      2048,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_hill": {
+    "file": "scene_hill.png",
+    "px": "px/scene_hill.png",
+    "kind": "sprite",
+    "size": [
+      2048,
+      512
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "scene_lamp": {
+    "file": "scene_lamp.png",
+    "px": "px/scene_lamp.png",
+    "kind": "sprite",
+    "size": [
+      512,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_1": {
+    "file": "you_walk_1.png",
+    "px": "px/you_walk_1.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_2": {
+    "file": "you_walk_2.png",
+    "px": "px/you_walk_2.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_3": {
+    "file": "you_walk_3.png",
+    "px": "px/you_walk_3.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_4": {
+    "file": "you_walk_4.png",
+    "px": "px/you_walk_4.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_5": {
+    "file": "you_walk_5.png",
+    "px": "px/you_walk_5.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "you_walk_6": {
+    "file": "you_walk_6.png",
+    "px": "px/you_walk_6.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "maria_wave": {
+    "file": "maria_wave.png",
+    "px": "px/maria_wave.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "maria_sleep": {
+    "file": "maria_sleep.png",
+    "px": "px/maria_sleep.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "maria_shock": {
+    "file": "maria_shock.png",
+    "px": "px/maria_shock.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "maria_smug": {
+    "file": "maria_smug.png",
+    "px": "px/maria_smug.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      1024
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "confetti_a": {
+    "file": "confetti_a.png",
+    "px": "px/confetti_a.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "confetti_b": {
+    "file": "confetti_b.png",
+    "px": "px/confetti_b.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "confetti_c": {
+    "file": "confetti_c.png",
+    "px": "px/confetti_c.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "confetti_d": {
+    "file": "confetti_d.png",
+    "px": "px/confetti_d.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "cursor_spade": {
+    "file": "cursor_spade.png",
+    "px": "px/cursor_spade.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "cursor_hand": {
+    "file": "cursor_hand.png",
+    "px": "px/cursor_hand.png",
+    "kind": "sprite",
+    "size": [
+      128,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "ornament_header": {
+    "file": "ornament_header.png",
+    "px": "px/ornament_header.png",
+    "kind": "sprite",
+    "size": [
+      1024,
+      128
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  },
+  "sticker_new": {
+    "file": "sticker_new.png",
+    "px": "px/sticker_new.png",
+    "kind": "sprite",
+    "size": [
+      256,
+      256
+    ],
+    "anchor": [
+      0.5,
+      0.85
+    ],
+    "qa_status": "PASS"
+  }
+}

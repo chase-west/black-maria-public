@@ -1,0 +1,5 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": { "noEmit": true, "paths": { "blackmaria": ["./src/index.ts"] } },
+  "include": ["src", "test", "templates"]
+}

@@ -1,0 +1,11 @@
+export { StarterBot } from "./starter.js";
+export { Transport, ClientError, applyHooks, HOOK_NAMES, type Bot, type Hooks, type Delta, type WirePacket, type TransportOptions, type ClientOptions, type MatchSummary } from "./transport.js";
+export { WireClient } from "./client.js";
+export { Meter, FINAL_LAG } from "./meter.js";
+export { findings, PROBE_TICKS } from "./doctor.js";
+export { resolveTarget, tokenBytes, parsePorts, loadDotEnv, LOCAL_TOKEN, DEFAULT_PORTS, ConfigError, type Target } from "./config.js";
+export { main, loadBotFile, VERSION, type Io, type BotFile } from "./cli.js";
+export { initBot, BOT_FILES, type Lang } from "./init.js";
+export { traceLine } from "@blackmaria/protocol/wire";
+export type { TickRecord, ConnSummary } from "@blackmaria/protocol/wire";
+export type { Intent, MatchEndMsg, MatchParams, MatchStartMsg, StateMsg } from "@blackmaria/protocol";

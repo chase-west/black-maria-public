@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+*.db
+*.sqlite
+assets/placeholders/
+.DS_Store
+.venv/
+__pycache__/
+*.egg-info/
+data/
+*.tgz
+.publish/
+dist-publish/

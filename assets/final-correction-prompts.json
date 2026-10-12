@@ -1,0 +1,245 @@
+[
+  {
+    "name": "tile_floor_corridor",
+    "file": "tile_floor_corridor.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nCream flagstones with wobbly cocoa joints, a few flat teal stones mixed in.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: FOUR BY FOUR flagstone layout only: exactly 4 rows and 4 columns of cream rectangular flagstones, with two teal stones. All joints cocoa. Cocoa mortar runs through all four canvas edges; edge seam thickness equals half the internal joints. No outside background. Perfectly repeating coarse grid.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_hall",
+    "file": "tile_floor_hall.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nCream and mustard checkerboard, slightly crooked squares, cocoa joints.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly FOUR BY FOUR checkerboard grid: 4 rows, 4 columns, cream/mustard alternating, cocoa mortar. Upper left cream, lower right cream. Half-width cocoa mortar along ALL canvas edges. This even grid repeats correctly. Full bleed.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_hall_mark",
+    "file": "tile_floor_hall_mark.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nSame checkerboard with a big chubby cocoa spade painted at center with a mustard outline. Hall center tile only.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Spade always means the chubby playing-card suit with rounded upper point, two lobes and short stem, matching the reference emblem, never a shovel. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly FOUR BY FOUR checkerboard: 4 rows, 4 columns alternating cream/mustard cocoa joints, half-width cocoa mortar along ALL edges. Same hall texture. ONE big central cocoa spade outlined mustard; no other spades.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_library",
+    "file": "tile_floor_library.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nMustard herringbone parquet with cocoa seams.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Simple periodic MUSTARD herringbone parquet. Each opposite edge cuts the pattern at EXACTLY THE SAME PHASE. Coarse planks. Cocoa seams. Mustard all four corner pixels. No perimeter frame or margins.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_study",
+    "file": "tile_floor_study.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nWide cocoa-outlined planks in a lighter cocoa tone, wobbly grain lines.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Four horizontal broad mustard wood planks with cocoa outlines and sparse cocoa grain. Each plank extends from left edge to right edge. No vertical cross seams. Half-width cocoa joints at top/bottom. Use mustard as the closest allowed lighter cocoa fill; no off-palette brown.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_chapel",
+    "file": "tile_floor_chapel.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nPale cream stone slabs with cocoa joints, a few flat moss specks.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly 4 rows and 4 columns of wide cream stone slabs, sparse moss specks INSIDE slabs. Cocoa joints. Half-width cocoa mortar on ALL four edges; no off-edge moss. No floating stones or perimeter margin.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_cellar",
+    "file": "tile_floor_cellar.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nTeal-grey bricks in a wobbly pattern, cocoa mortar.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly FOUR rows of broad teal bricks with cocoa mortar. Stagger vertical joints at x=.25/.75 in rows1/3 and x=.5 in rows2/4. Cocoa half-width mortar at all edges. Full bleed. No grey outside palette.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_kitchen",
+    "file": "tile_floor_kitchen.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nSmall cream and coral tiles in a checker, some crooked.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly EIGHT BY EIGHT cream/coral checkerboard cells, cocoa joints. Upper left cream, bottom right cream. Half-width cocoa mortar at all four edges. No odd counts, no clipped cells.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_conservatory",
+    "file": "tile_floor_conservatory.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nMoss and cream geometric tiles, a little mustard star in the pattern.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly FOUR BY FOUR moss/cream diamond geometric pattern, little mustard stars inside complete central cells only. Perfectly periodic geometry matching phase along opposite edges. No clipped stars.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_gallery",
+    "file": "tile_floor_gallery.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nFlat teal floor with a thin mustard border pattern.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Almost entirely flat teal floor. ONE thin mustard square inset close to edges, hand drawn. No diagonal lattice, no spades, no floral pattern. Teal is uninterrupted along all four canvas edges so repeated tiles connect on teal.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "tile_floor_nursery",
+    "file": "tile_floor_nursery.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "tile",
+    "section": 1,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nCream floorboards with scattered flat coral and teal polka dots.\n\nSeamlessly tileable square texture seen from directly above, edges wrap perfectly, no visible seam, quiet and low-contrast so objects read on top of it.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text. FULL BLEED texture filling the entire square, not a floating swatch, no outer border or margin, no perspective. Repeating motifs continue across opposite edges at identical positions. Use sparse larger shapes and restrained contrast.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Exactly FOUR vertical cream floorboards spanning the entire height, cocoa parallel seams at x=.25,.5,.75 plus half-width joints at left/right. No horizontal joints. Coral and teal dots placed fully INSIDE each board, never clipped at canvas edges. Cream top/bottom continuous except vertical seams.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "wall_plaster",
+    "file": "wall_plaster.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "wall",
+    "section": 2,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nTeal plaster wall with a cocoa top cap, a few wobbly cracks, a tiny framed picture of a flat shape on the face.\n\nSquare wall block for a 3/4 top-down view: a flat top cap in the upper third, a front face below it, tileable left to right, hard horizontal edges, no transparency.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Full-bleed wall tile. Entire upper third SOLID COCOA top cap with no cream stones or stripe. Entire lower two thirds TEAL plaster, tiny centered framed coral abstract shape, two little cracks safely inside. Left/right edges have cocoa upper third and teal lower two thirds with same boundary at 33.33%. NO foreground or outside background.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "wall_stone",
+    "file": "wall_stone.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "kind": "wall",
+    "section": 2,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nChunky cocoa-outlined stone wall in teal-grey with a cocoa top cap. For chapel, cellar, vault.\n\nSquare wall block for a 3/4 top-down view: a flat top cap in the upper third, a front face below it, tileable left to right, hard horizontal edges, no transparency.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 1024×1024. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text.\n\nFINAL OVERRIDE — SIMPLIFY TO FIX VISIBLE SEAMS: Full-bleed wall tile. Entire upper third SOLID COCOA top cap, no cream stones, no mustard stripe. Lower two thirds TEAL stones with cocoa joints. Every horizontal joint matches at left/right edge. No outside background, no angled side face.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png"
+    ]
+  },
+  {
+    "name": "ui_divider",
+    "file": "ui_divider.png",
+    "size": [
+      2048,
+      128
+    ],
+    "kind": "ui",
+    "section": 8,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA wobbly horizontal cocoa line with a chubby spade at center.\n\nInterface element with a thick cocoa outline and flat fill, isolated on a fully transparent background, PNG with alpha, rounded, friendly.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 2048×128. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Spade always means the chubby playing-card suit with rounded upper point, two lobes and short stem, matching the reference emblem, never a shovel. No letters or text.\nTARGETED CORRECTION: ONLY cocoa horizontal hand-drawn line and central cocoa chubby spade. NO MUSTARD. Make the line bold enough to remain legible at intended 2048x128 aspect ratio. No extra decorations.",
+    "transparent": true,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png",
+      "/Users/chase/Desktop/open-source/black-maria/assets/ui_divider.png"
+    ]
+  },
+  {
+    "name": "ui_frame_corner",
+    "file": "ui_frame_corner.png",
+    "size": [
+      512,
+      512
+    ],
+    "kind": "ui",
+    "section": 8,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nA rounded cocoa corner bracket with a tiny spade at the tip. Mirrored in code.\n\nInterface element with a thick cocoa outline and flat fill, isolated on a fully transparent background, PNG with alpha, rounded, friendly.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 512×512. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Spade always means the chubby playing-card suit with rounded upper point, two lobes and short stem, matching the reference emblem, never a shovel. No letters or text.\nTARGETED CORRECTION: ONLY COCOA filled corner bracket and tiny cocoa spade at tip on transparent. NO MUSTARD fill, no extra colors.",
+    "transparent": true,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png",
+      "/Users/chase/Desktop/open-source/black-maria/assets/ui_frame_corner.png"
+    ]
+  },
+  {
+    "name": "art_defeat",
+    "file": "art_defeat.png",
+    "size": [
+      2560,
+      1440
+    ],
+    "kind": "art",
+    "section": 10,
+    "prompt": "Flat cartoon illustration for a whimsical retro video game. Thick cocoa-brown ink outlines, flat fills, slightly wobbly hand-drawn lines, risograph print texture with colors a little off-register. Limited palette: cream, cocoa brown, teal, mustard yellow, coral, moss green, lilac. Silly, warm, friendly, a little strange. In the spirit of EarthBound, Katamari Damacy, Chicory, and Untitled Goose Game. Not realistic, not 3D rendered, not painterly, not gothic, not dark, no gradients, no text, no watermark, no border.\n\nThe round cream fellow sitting on the floor of the hall looking at the viewer, the lilac ghost floating above with a huge grin.\n\nWide flat cartoon illustration, big simple shapes, risograph grain, lots of cream space.\nMatch the style of the attached reference sheet exactly. The attachment is only a style reference; output ONLY the requested single asset, no sheet or extra studies. Output dimensions 2560×1440. Use only cream #F6E7C8, cocoa #4A2C2A, teal #2A9D8F, mustard #E9B44C, coral #F07167, moss #7FB069, lilac #B8A1E3. Lilac only for Maria or explicitly specified lilac liquid. No black or white. Flat fills, few marks, thick wobbly outlines, readable at 64 pixels, no gradients, no highlights or cast shadows. Do not add spade symbols or any motifs absent from the requested asset. No letters or text.\nTARGETED CORRECTION: Keep the same seated cream Vessel with coral scarf and grinning lilac ghost, but add the HALL FLOOR under the Vessel: large cream and mustard checkerboard with cocoa seams, teal hallway walls. Preserve lots of cream space; no text.",
+    "transparent": false,
+    "refs": [
+      "/Users/chase/Desktop/open-source/black-maria/assets/_stylesheet.png",
+      "/Users/chase/Desktop/open-source/black-maria/assets/art_defeat.png"
+    ]
+  }
+]

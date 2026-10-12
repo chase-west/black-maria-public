@@ -1,0 +1,36 @@
+{
+  "name": "@black-maria/sim",
+  "version": "0.7.1",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-west/black-maria.git",
+    "directory": "packages/sim"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": {
+      "source": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json",
+    "sim": "tsx --conditions=source src/bin.ts"
+  },
+  "dependencies": {
+    "@blackmaria/engine": "workspace:*",
+    "@blackmaria/house-bots": "workspace:*",
+    "@blackmaria/protocol": "workspace:*"
+  }
+}

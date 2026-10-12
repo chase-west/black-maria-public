@@ -1,0 +1,40 @@
+{
+  "name": "@blackmaria/client",
+  "version": "0.7.1",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chase-west/black-maria.git",
+    "directory": "packages/client"
+  },
+  "files": [
+    "dist",
+    "src",
+    "python",
+    "templates",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": {
+      "source": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json",
+    "blackmaria": "tsx --conditions=source src/bin.ts"
+  },
+  "dependencies": {
+    "@blackmaria/protocol": "workspace:*"
+  },
+  "devDependencies": {
+    "@black-maria/sim": "workspace:*"
+  }
+}

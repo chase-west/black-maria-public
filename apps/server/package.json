@@ -1,0 +1,35 @@
+{
+  "name": "@blackmaria/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": {
+      "source": "./src/index.ts",
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "typecheck": "tsc -p tsconfig.json",
+    "dev": "tsx --conditions=source src/main.ts",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {
+    "@blackmaria/engine": "workspace:*",
+    "@blackmaria/house-bots": "workspace:*",
+    "@blackmaria/protocol": "workspace:*",
+    "@hono/node-server": "^2.1.4",
+    "better-sqlite3": "^13.0.3",
+    "hono": "^4.13.13",
+    "ws": "^8.22.0",
+    "@black-maria/sim": "workspace:*",
+    "@blackmaria/style": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^9.6.0",
+    "@types/ws": "^8.18.2",
+    "@blackmaria/house-bots": "workspace:*"
+  }
+}

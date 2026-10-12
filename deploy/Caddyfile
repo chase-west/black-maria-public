@@ -1,0 +1,23 @@
+# TLS on TCP 443 only. A public DOMAIN gets a Let's Encrypt certificate through the TLS-ALPN challenge on 443 (port 80
+# is not exposed); DOMAIN=localhost uses Caddy's internal CA. No HTTP/3: UDP 443 is the wire's fallback port.
+{
+	email {$ACME_EMAIL}
+	auto_https disable_redirects
+	servers {
+		protocols h1 h2
+	}
+}
+
+{$DOMAIN} {
+	encode zstd gzip
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options nosniff
+		Referrer-Policy same-origin
+		-Server
+	}
+	# WebSocket upgrades are proxied transparently.
+	reverse_proxy app:8787 {
+		header_up X-Forwarded-For {remote_host}
+	}
+}
